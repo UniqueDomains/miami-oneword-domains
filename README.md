@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .MIAMI one-word domains still available to buy.
 
-This dataset contains 4,656 .MIAMI one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,661 .MIAMI one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.MIAMI one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=miami-oneword-domains&utm_content=description.top) (4,656) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -22,7 +22,7 @@ If you want to search & filters the complete database of [.MIAMI one word domain
 | Domain           | Status    | Attract. | Demand | Length | Registrar        | Created          | Expires          |
 | ---------------- | --------- | -------- | ------ | ------ | ---------------- | ---------------- | ---------------- |
 | aaa.miami        | resell    | 70       | 38%    | 3      | GoDaddy.com, LLC | 05/12/2022 21:29 | 05/12/2025 21:29 |
-| aaron.miami      | available | 88       | 32%    | 5      |                  |                  |                  |
+| aaron.miami      | premium   | 88       | 32%    | 5      |                  |                  |                  |
 | abactinal.miami  | available | 50       | 1%     | 9      |                  |                  |                  |
 | abaft.miami      | available | 43       | 2%     | 5      |                  |                  |                  |
 | abandoned.miami  | available | 58       | 7%     | 9      |                  |                  |                  |
