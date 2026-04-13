@@ -65,7 +65,7 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | nationwide.miami | available | $22.99    | $27.99        | 76             | 66     | 10     | name.com         |
-| hidden.miami     | resell    | $22.99    | $27.99        | 65             | 35     | 6      | GoDaddy.com, LLC |
+| hidden.miami     | resell    | $22.99    | $27.99        | 65             | 34     | 6      | GoDaddy.com, LLC |
 | seventeen.miami  | premium   | $50       | $27.99        | 84             | 62     | 9      | name.com         |
 | agile.miami      | available | $22.99    | $27.99        | 92             | 41     | 5      | name.com         |
 | company.miami    | resell    | —         | —             | 98             | 99     | 7      | InternetX GmbH   |
@@ -81,8 +81,8 @@ print(df.head())
 | game.miami       | premium   | $100      | $27.99        | 120            | 50     | 4      | name.com         |
 | eternal.miami    | available | $22.99    | $27.99        | 92             | 39     | 7      | name.com         |
 | mint.miami       | resell    | —         | —             | 72             | 78     | 4      | Porkbun          |
-| clear.miami      | premium   | $50       | $27.99        | 90             | 49     | 5      | name.com         |
-| shared.miami     | available | $22.99    | $27.99        | 70             | 39     | 6      | name.com         |
+| simple.miami     | premium   | $100      | $27.99        | 128            | 49     | 6      | name.com         |
+| forward.miami    | available | $22.99    | $27.99        | 68             | 39     | 7      | name.com         |
 | fuck.miami       | resell    | —         | —             | 124            | 70     | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
