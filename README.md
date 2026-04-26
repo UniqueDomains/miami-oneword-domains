@@ -1,22 +1,22 @@
-# Available .MIAMI One-Word Domains (9,317)
+# Available .MIAMI One-Word Domains (11,724)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C317%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C317%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C724%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .miami one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .miami one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,724 domains** on the canonical page below.
 
-**Public extract:** 9,317 rows · **Live catalog:** 9,317 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,724 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/miami`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .MIAMI one-word domain
 
 ### Files
 
-- `miami.csv` — public CSV extract (9,317 rows)
-- `miami.json` — public JSON extract (9,317 rows)
+- `miami.csv` — public CSV extract (1,000 rows)
+- `miami.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| nationwide.miami | available | $22.99    | $27.99        | 76             | 66     | 10     | name.com         |
-| hidden.miami     | resell    | $22.99    | $27.99        | 65             | 34     | 6      | GoDaddy.com, LLC |
-| seventeen.miami  | premium   | $50       | $27.99        | 84             | 62     | 9      | name.com         |
-| agile.miami      | available | $22.99    | $27.99        | 92             | 41     | 5      | name.com         |
-| company.miami    | resell    | —         | —             | 98             | 99     | 7      | InternetX GmbH   |
-| ace.miami        | premium   | $100      | $27.99        | 88             | 57     | 3      | name.com         |
-| quick.miami      | available | $22.99    | $27.99        | 72             | 41     | 5      | name.com         |
-| corporate.miami  | resell    | —         | —             | 90             | 99     | 9      | InternetX GmbH   |
-| live.miami       | premium   | $5,000    | $27.99        | 108            | 56     | 4      | name.com         |
-| unity.miami      | available | $22.99    | $27.99        | 70             | 40     | 5      | name.com         |
-| american.miami   | resell    | —         | —             | 98             | 98     | 8      | InternetX GmbH   |
-| athletics.miami  | premium   | $260      | $19.50        | 69             | 52     | 9      | namecheap        |
-| custom.miami     | available | $22.99    | $27.99        | 110            | 39     | 6      | name.com         |
-| broadband.miami  | resell    | —         | —             | 92             | 98     | 9      | InternetX GmbH   |
-| game.miami       | premium   | $100      | $27.99        | 120            | 50     | 4      | name.com         |
-| eternal.miami    | available | $22.99    | $27.99        | 92             | 39     | 7      | name.com         |
-| mint.miami       | resell    | —         | —             | 72             | 78     | 4      | Porkbun          |
-| simple.miami     | premium   | $100      | $27.99        | 128            | 49     | 6      | name.com         |
-| forward.miami    | available | $22.99    | $27.99        | 68             | 39     | 7      | name.com         |
-| fuck.miami       | resell    | —         | —             | 124            | 70     | 4      | GoDaddy.com, LLC |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
+| tokens.miami      | available | $23.49    | $23.49        | 51             | 36     | 6      | namesilo                 |
+| guns.miami        | resell    | —         | —             | 68             | 22     | 4      | GoDaddy.com, LLC         |
+| WiFi.miami        | premium   | $280      | $25.20        | 83             | 37     | 5      | namecheap                |
+| spectra.miami     | available | $30.98    | —             | 62             | 34     | 7      | namecheap                |
+| going.miami       | resell    | —         | —             | 80             | 18     | 5      | Unstoppable Domains Inc. |
+| Cats.miami        | premium   | $280      | $25.20        | 59             | 33     | 4      | namecheap                |
+| payments.miami    | available | $30.98    | —             | 58             | 33     | 8      | namecheap                |
+| hookup.miami      | resell    | —         | —             | 76             | 16     | 7      | Porkbun                  |
+| teams.miami       | premium   | $100      | —             | 62             | 32     | 5      | name.com                 |
+| inspiration.miami | available | $30.98    | —             | 88             | 30     | 11     | namecheap                |
+| postcards.miami   | resell    | —         | —             | 50             | 11     | 9      | GoDaddy.com, LLC         |
+| Jim.miami         | premium   | $56       | $25.20        | 78             | 28     | 3      | namecheap                |
+| rewards.miami     | available | $23.49    | $23.49        | 62             | 30     | 7      | namesilo                 |
+| gems.miami        | premium   | $96       | $21.24        | 70             | 28     | 4      | namesilo                 |
+| popup.miami       | available | $30.98    | —             | 84             | 29     | 6      | namecheap                |
+| gods.miami        | premium   | $50       | —             | 72             | 27     | 4      | name.com                 |
+| SanDiego.miami    | available | $23.49    | $23.49        | 74             | 29     | 9      | namesilo                 |
+| systems.miami     | premium   | $250      | —             | 46             | 27     | 7      | name.com                 |
+| blocks.miami      | available | $30.98    | —             | 53             | 29     | 6      | namecheap                |
+| tips.miami        | premium   | $2,500    | —             | 80             | 26     | 4      | name.com                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,317-row public sample | 9,317 live domains                               |
+| 1,000-row public sample | 11,724 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MIAMI One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MIAMI One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
