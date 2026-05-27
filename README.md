@@ -74,14 +74,14 @@ print(df.head())
 | postcards.miami   | resell    | —         | —             | 50             | 11     | 9      | GoDaddy.com, LLC         |
 | teams.miami       | premium   | $100      | —             | 62             | 32     | 5      | name.com                 |
 | payments.miami    | available | $30.98    | —             | 58             | 33     | 8      | namecheap                |
-| Jim.miami         | premium   | $56       | $25.20        | 78             | 28     | 3      | namecheap                |
-| inspiration.miami | available | $30.98    | —             | 88             | 30     | 11     | namecheap                |
-| gods.miami        | premium   | $50       | —             | 72             | 27     | 4      | name.com                 |
+| gods.miami        | premium   | $50       | —             | 72             | 29     | 4      | name.com                 |
 | rewards.miami     | available | $23.49    | $23.49        | 62             | 30     | 7      | namesilo                 |
-| systems.miami     | premium   | $250      | —             | 46             | 27     | 7      | name.com                 |
+| Jim.miami         | premium   | $56       | $25.20        | 78             | 28     | 3      | namecheap                |
 | SanDiego.miami    | available | $23.49    | $23.49        | 74             | 29     | 9      | namesilo                 |
-| doctors.miami     | premium   | $1,000    | —             | 56             | 26     | 7      | name.com                 |
+| systems.miami     | premium   | $250      | —             | 46             | 27     | 7      | name.com                 |
 | blocks.miami      | available | $30.98    | —             | 53             | 29     | 6      | namecheap                |
+| doctors.miami     | premium   | $1,000    | —             | 56             | 26     | 7      | name.com                 |
+| inspiration.miami | available | $30.98    | —             | 88             | 27     | 11     | namecheap                |
 | girls.miami       | premium   | $250      | —             | 83             | 23     | 5      | name.com                 |
 | chem.miami        | available | $30.98    | —             | 74             | 24     | 4      | namecheap                |
 
