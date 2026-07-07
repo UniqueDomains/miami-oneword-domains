@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .miami one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,219 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,219 domains · **Median ask:** $58.09 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,219 domains · **Median ask:** $59.43 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/miami`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/miami`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MIAMI one-word domain
 
 ### Files
 
-- `miami.csv` — public CSV extract (1,000 rows)
-- `miami.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `miami.csv`, public CSV extract (1,000 rows)
+- `miami.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| prompts.miami     | available | $23.49    | $23.49        | 54             | 39     | 7      | namesilo                 |
-| guns.miami        | resell    | —         | —             | 68             | 22     | 4      | GoDaddy.com, LLC         |
-| WiFi.miami        | premium   | $280      | $25.20        | 83             | 37     | 5      | namecheap                |
-| tokens.miami      | available | $23.49    | $23.49        | 51             | 36     | 6      | namesilo                 |
-| going.miami       | resell    | —         | —             | 80             | 18     | 5      | Unstoppable Domains Inc. |
-| Cats.miami        | premium   | $280      | $25.20        | 59             | 33     | 4      | namecheap                |
-| spectra.miami     | available | $30.98    | —             | 62             | 34     | 7      | namecheap                |
-| postcards.miami   | resell    | —         | —             | 50             | 11     | 9      | GoDaddy.com, LLC         |
-| teams.miami       | premium   | $100      | —             | 62             | 32     | 5      | name.com                 |
-| payments.miami    | available | $30.98    | —             | 58             | 33     | 8      | namecheap                |
-| gods.miami        | premium   | $50       | —             | 72             | 29     | 4      | name.com                 |
-| rewards.miami     | available | $23.49    | $23.49        | 62             | 30     | 7      | namesilo                 |
-| Jim.miami         | premium   | $56       | $25.20        | 78             | 28     | 3      | namecheap                |
-| SanDiego.miami    | available | $23.49    | $23.49        | 74             | 29     | 9      | namesilo                 |
-| systems.miami     | premium   | $250      | —             | 46             | 27     | 7      | name.com                 |
-| blocks.miami      | available | $30.98    | —             | 53             | 29     | 6      | namecheap                |
-| doctors.miami     | premium   | $1,000    | —             | 56             | 26     | 7      | name.com                 |
-| inspiration.miami | available | $30.98    | —             | 88             | 27     | 11     | namecheap                |
-| girls.miami       | premium   | $250      | —             | 83             | 23     | 5      | name.com                 |
-| chem.miami        | available | $30.98    | —             | 74             | 24     | 4      | namecheap                |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| ISBN.miami   | available | $23.49    | $23.49        | high           | low    | 4      | namesilo         |
+| gay.miami    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| age.miami    | premium   | $96       | $21.24        | high           | low    | 3      | namesilo         |
+| acids.miami  | available | $23.49    | $23.49        | medium         | low    | 5      | namesilo         |
+| moved.miami  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| ane.miami    | premium   | $47.20    | $21.24        | low            | low    | 3      | namesilo         |
+| alone.miami  | available | $22.99    | $27.99        | high           | low    | 5      | name.com         |
+| career.miami | resell    | —         | —             | high           | low    | 6      | NameCheap, Inc.  |
+| bow.miami    | premium   | $96       | $21.24        | high           | low    | 3      | namesilo         |
+| apart.miami  | available | $30.98    | —             | high           | low    | 5      | namecheap        |
+| bus.miami    | premium   | $96       | $21.24        | high           | low    | 3      | namesilo         |
+| asset.miami  | available | $23.49    | $23.49        | high           | low    | 5      | namesilo         |
+| cow.miami    | premium   | $96       | $21.24        | high           | low    | 3      | namesilo         |
+| axial.miami  | available | $23.49    | $23.49        | high           | low    | 5      | namesilo         |
+| cue.miami    | premium   | $100      | —             | medium         | low    | 3      | name.com         |
+| badly.miami  | available | $23.49    | $23.49        | medium         | low    | 5      | namesilo         |
+| des.miami    | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo         |
+| bagel.miami  | available | $23.49    | $23.49        | high           | low    | 5      | namesilo         |
+| far.miami    | premium   | $96       | $21.24        | high           | low    | 3      | namesilo         |
+| balls.miami  | available | $23.49    | $23.49        | high           | low    | 5      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is centered on one-word .miami domains. The words range from direct and simple, like pass.miami and hall.miami, to broader or more expressive options like awesome.miami, watercooler.miami, and circus.miami. For founders, the main question is whether the word is memorable, easy to say, and credible with a Miami-specific extension. For investors, the key test is whether the name has clear resale logic at the asking price. With a median ask of 58.09, price may be accessible, but judgment still depends on how commercially useful the word feels and whether the renewal profile makes sense over time.
+This is a list of 12,219 one-word domain names registered under the .Miami extension, with a median asking price near $59. The set ranges from everyday words like forces.miami and whitewater.miami to playful, brandable terms such as jetblack.miami and cometolife.miami. Because every name in this selection uses a single word, the .Miami suffix does most of the work signaling location, lifestyle, or community ties, which matters when comparing options for a coastal or Miami-based brand.
 
-- Prefer clean, familiar words that fit a Miami-based use case
-- Check if the word is strong enough to carry a .miami ending
-- Use median ask 58.09 as a rough price reality check
-- Avoid words that raise trademark or credibility questions
+- Median asking price near $59 across this .Miami selection
+- 12,219 one-word domains spanning lifestyle and coastal themes
+- Short, memorable names ownable now for local or lifestyle brands
+- Consistent .Miami extension signals geographic and community relevance
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MIAMI One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MIAMI One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
