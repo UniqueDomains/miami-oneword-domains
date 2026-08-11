@@ -1,10 +1,10 @@
-# Available .MIAMI One-Word Domains (12,224)
+# Available .MIAMI One-Word Domains (13,198)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C224%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C198%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .miami one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,224 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **13,198 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,224 domains · **Median ask:** $56.89 · **High-demand under $2,500:** 14
+**Public extract:** 1,000 rows · **Live catalog:** 13,198 domains · **Median ask:** $55.48 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/tld/miami`
 **Best for:** founders, investors, studios
 
@@ -70,20 +70,20 @@ print(df.head())
 | lxii.miami   | available | $23.49    | $23.49        | low            | low    | 4      | namesilo         |
 | moved.miami  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
 | age.miami    | premium   | $96       | $21.24        | high           | low    | 3      | namesilo         |
-| xcii.miami   | available | $24.98    | $30.98        | low            | low    | 4      | namecheap        |
+| ruin.miami   | available | $23.49    | $23.49        | low            | low    | 4      | namesilo         |
 | career.miami | resell    | —         | —             | high           | low    | 6      | NameCheap, Inc.  |
 | ain.miami    | premium   | $47.20    | $21.24        | low            | low    | 3      | namesilo         |
-| xxxv.miami   | available | $23.49    | $23.49        | low            | low    | 4      | namesilo         |
+| xcii.miami   | available | $24.98    | $30.98        | low            | low    | 4      | namecheap        |
 | ane.miami    | premium   | $47.20    | $21.24        | low            | low    | 3      | namesilo         |
-| acids.miami  | available | $23.49    | $23.49        | medium         | low    | 5      | namesilo         |
+| xxxv.miami   | available | $23.49    | $23.49        | low            | low    | 4      | namesilo         |
 | bow.miami    | premium   | $96       | $21.24        | high           | low    | 3      | namesilo         |
-| acned.miami  | available | $23.49    | $23.49        | low            | low    | 5      | namesilo         |
+| zend.miami   | available | $23.49    | $23.49        | low            | low    | 4      | namesilo         |
 | bus.miami    | premium   | $96       | $21.24        | high           | low    | 3      | namesilo         |
-| acold.miami  | available | $23.49    | $23.49        | low            | low    | 5      | namesilo         |
+| acids.miami  | available | $23.49    | $23.49        | medium         | low    | 5      | namesilo         |
 | cow.miami    | premium   | $96       | $21.24        | high           | low    | 3      | namesilo         |
-| acrid.miami  | available | $23.49    | $23.49        | low            | low    | 5      | namesilo         |
+| acned.miami  | available | $23.49    | $23.49        | low            | low    | 5      | namesilo         |
 | cue.miami    | premium   | $100      | —             | medium         | low    | 3      | name.com         |
-| adust.miami  | available | $23.49    | $23.49        | low            | low    | 5      | namesilo         |
+| acold.miami  | available | $23.49    | $23.49        | low            | low    | 5      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,224 live domains                        |
+| 1,000-row public sample | 13,198 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 14 high-demand names under $2,500          |
+| Basic exported fields   | 15 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MIAMI One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MIAMI One-Word Domains*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
