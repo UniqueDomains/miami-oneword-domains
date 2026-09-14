@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .miami one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,668 domains · **Median ask:** $51.72 · **High-demand under $2,500:** 23
 
-**Last updated:** 2026-09-13
+**Last updated:** 2026-09-14
 **Canonical page:** `https://unique.domains/domains/tld/miami`
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | aft.miami    | premium   | $96       | $21.24        | low            | low    | 3      | namesilo         |
 | lxii.miami   | available | $23.49    | $23.49        | low            | low    | 4      | namesilo         |
 | moved.miami  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| age.miami    | premium   | $96       | $21.24        | high           | low    | 3      | namesilo         |
+| age.miami    | premium   | $96       | $21.24        | medium         | low    | 3      | namesilo         |
 | ruin.miami   | available | $23.49    | $23.49        | low            | low    | 4      | namesilo         |
 | career.miami | resell    | —         | —             | high           | low    | 6      | NameCheap, Inc.  |
 | ain.miami    | premium   | $47.20    | $21.24        | low            | low    | 3      | namesilo         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MIAMI One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MIAMI One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
