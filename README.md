@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .miami one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,655 domains · **Median ask:** $50.49 · **High-demand under $2,500:** 24
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/miami`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,7 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| just.miami   | available | —         | —             | high           | medium | 4      | —                |
-| ISBN.miami   | available | $23.49    | $23.49        | high           | low    | 4      | namesilo         |
+| isbn.miami   | available | $23.49    | $23.49        | high           | low    | 4      | namesilo         |
 | gay.miami    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
 | aft.miami    | premium   | $96       | $21.24        | low            | low    | 3      | namesilo         |
 | lxii.miami   | available | $23.49    | $23.49        | low            | low    | 4      | namesilo         |
@@ -84,6 +83,7 @@ print(df.head())
 | cow.miami    | premium   | $96       | $21.24        | high           | low    | 3      | namesilo         |
 | acned.miami  | available | $23.49    | $23.49        | low            | low    | 5      | namesilo         |
 | cue.miami    | premium   | $100      | —             | medium         | low    | 3      | name.com         |
+| acold.miami  | available | $23.49    | $23.49        | low            | low    | 5      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MIAMI One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MIAMI One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
