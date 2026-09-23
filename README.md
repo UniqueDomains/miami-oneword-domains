@@ -1,10 +1,10 @@
-# Available .MIAMI One-Word Domains (30,188)
+# Available .MIAMI One-Word Domains (31,933)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C188%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C933%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .miami one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,188 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,933 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,188 domains · **Median ask:** $53.57 · **High-demand under $2,500:** 21
+**Public extract:** 1,000 rows · **Live catalog:** 31,933 domains · **Median ask:** $57.19 · **High-demand under $2,500:** 21
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/miami`
 **Best for:** founders, investors, studios
 
@@ -75,10 +75,10 @@ print(df.head())
 | xcii.miami  | available | $24.98    | $30.98        | low            | low    | 4      | namecheap        |
 | ane.miami   | premium   | $47.20    | $21.24        | low            | low    | 3      | namesilo         |
 | xxxv.miami  | available | $23.49    | $23.49        | low            | low    | 4      | namesilo         |
-| bow.miami   | premium   | $96       | $21.24        | high           | low    | 3      | namesilo         |
+| bow.miami   | premium   | $96       | $21.24        | medium         | low    | 3      | namesilo         |
 | zend.miami  | available | $23.49    | $23.49        | low            | low    | 4      | namesilo         |
 | bus.miami   | premium   | $96       | $21.24        | high           | low    | 3      | namesilo         |
-| acids.miami | available | $23.49    | $23.49        | medium         | low    | 5      | namesilo         |
+| acids.miami | available | $23.49    | $23.49        | low            | low    | 5      | namesilo         |
 | cow.miami   | premium   | $96       | $21.24        | high           | low    | 3      | namesilo         |
 | acned.miami | available | $23.49    | $23.49        | low            | low    | 5      | namesilo         |
 | cue.miami   | premium   | $100      | —             | medium         | low    | 3      | name.com         |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,188 live domains                        |
+| 1,000-row public sample | 31,933 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 21 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MIAMI One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MIAMI One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
