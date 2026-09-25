@@ -1,10 +1,10 @@
-# Available .MIAMI One-Word Domains (31,933)
+# Available .MIAMI One-Word Domains (32,888)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C933%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C888%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .miami one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,933 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,888 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,933 domains · **Median ask:** $57.19 · **High-demand under $2,500:** 21
+**Public extract:** 1,000 rows · **Live catalog:** 32,888 domains · **Median ask:** $58.20 · **High-demand under $2,500:** 21
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/miami`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| just.miami  | available | —         | —             | high           | medium | 4      | —                |
-| isbn.miami  | available | $23.49    | $23.49        | high           | low    | 4      | namesilo         |
-| gay.miami   | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC |
-| aft.miami   | premium   | $96       | $21.24        | low            | low    | 3      | namesilo         |
-| lxii.miami  | available | $23.49    | $23.49        | low            | low    | 4      | namesilo         |
-| moved.miami | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| age.miami   | premium   | $96       | $21.24        | medium         | low    | 3      | namesilo         |
-| ruin.miami  | available | $23.49    | $23.49        | low            | low    | 4      | namesilo         |
-| ain.miami   | premium   | $47.20    | $21.24        | low            | low    | 3      | namesilo         |
-| xcii.miami  | available | $24.98    | $30.98        | low            | low    | 4      | namecheap        |
-| ane.miami   | premium   | $47.20    | $21.24        | low            | low    | 3      | namesilo         |
-| xxxv.miami  | available | $23.49    | $23.49        | low            | low    | 4      | namesilo         |
-| bow.miami   | premium   | $96       | $21.24        | medium         | low    | 3      | namesilo         |
-| zend.miami  | available | $23.49    | $23.49        | low            | low    | 4      | namesilo         |
-| bus.miami   | premium   | $96       | $21.24        | high           | low    | 3      | namesilo         |
-| acids.miami | available | $23.49    | $23.49        | low            | low    | 5      | namesilo         |
-| cow.miami   | premium   | $96       | $21.24        | high           | low    | 3      | namesilo         |
-| acned.miami | available | $23.49    | $23.49        | low            | low    | 5      | namesilo         |
-| cue.miami   | premium   | $100      | —             | medium         | low    | 3      | name.com         |
-| acold.miami | available | $23.49    | $23.49        | low            | low    | 5      | namesilo         |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| natural.miami    | premium   | $242      | $21.24        | high           | low    | 7      | namesilo         |
+| desk.miami       | premium   | $96       | $21.24        | high           | low    | 4      | namesilo         |
+| check.miami      | premium   | $242      | $21.24        | high           | medium | 5      | namesilo         |
+| stuff.miami      | premium   | $5,520    | $21.24        | high           | low    | 5      | namesilo         |
+| section.miami    | premium   | $47.20    | $21.24        | high           | low    | 7      | namesilo         |
+| coordinate.miami | available | $23.49    | $23.49        | high           | low    | 10     | namesilo         |
+| clxv.miami       | available | $23.49    | $23.49        | medium         | low    | 4      | namesilo         |
+| aaa.miami        | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| ads.miami        | premium   | $96       | $21.24        | high           | medium | 3      | namesilo         |
+| cxlv.miami       | available | $23.49    | $23.49        | high           | low    | 4      | namesilo         |
+| baby.miami       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| aft.miami        | premium   | $96       | $21.24        | high           | low    | 3      | namesilo         |
+| isbn.miami       | available | $23.49    | $23.49        | high           | low    | 4      | namesilo         |
+| seen.miami       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| ain.miami        | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo         |
+| lxii.miami       | available | $23.49    | $23.49        | medium         | low    | 4      | namesilo         |
+| moved.miami      | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| ane.miami        | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo         |
+| lxxv.miami       | available | $24.98    | $30.98        | medium         | low    | 4      | namecheap        |
+| texas.miami      | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,933 live domains                        |
+| 1,000-row public sample | 32,888 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 21 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MIAMI One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MIAMI One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
