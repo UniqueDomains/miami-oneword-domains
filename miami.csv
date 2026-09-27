@@ -1,6 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 58509ad3-3305-4c85-bb0a-e7044a8be1f6,pangolin.miami,available,23.49,23.49,high,low,8,namesilo,,,19/09/2026 12:39
 fed4848c-38c1-4b71-ab18-461210f2cc20,evelyn.miami,premium,47.2,21.24,high,low,6,namesilo,,,25/09/2026 14:39
+f2fdfa76-ddc2-4c26-8903-bb4b11d99246,coke.miami,premium,2660,21.24,high,low,4,namesilo,,,27/09/2026 03:32
 d2bd0c13-55ca-44be-a550-c8067473a4f8,benumb.miami,available,23.49,23.49,medium,low,6,namesilo,,,03/09/2026 22:47
 84013e6d-2d93-48f4-9c9e-a50ea0aad713,intuitive.miami,premium,47.2,21.24,high,low,9,namesilo,,,22/08/2026 08:51
 83304b70-001b-47c0-83eb-f579a81b275a,abruptly.miami,available,30.99,30.99,medium,low,8,name.com,,,13/08/2026 19:17
@@ -31,7 +32,7 @@ fe0c9485-c8ea-4410-8f97-253dc00f037c,hind.miami,premium,47.2,21.24,medium,low,4,
 886934bd-ac58-4484-b8c9-e132a8cc38dc,amyl.miami,premium,47.2,21.24,medium,low,4,namesilo,,,19/09/2026 00:29
 34011fdd-ed95-4812-8a60-bcd1aaba7a07,canonized.miami,available,23.49,23.49,medium,low,9,namesilo,,,11/08/2026 17:25
 b323ea67-288d-4671-92ac-884734fe9ac9,stallion.miami,available,23.49,23.49,high,low,8,namesilo,,,24/09/2026 14:09
-0a8d798d-336a-4f24-b870-a49a80c8e4b6,recession.miami,premium,47.2,21.24,high,low,9,namesilo,,,
+0a8d798d-336a-4f24-b870-a49a80c8e4b6,recession.miami,premium,52,23.4,high,low,9,namecheap,,,27/09/2026 10:55
 4bf2c945-1365-492f-8d31-9cd2827efde7,lucullan.miami,available,23.49,23.49,medium,low,8,namesilo,,,24/08/2026 11:00
 29f9dea4-23e3-4892-b0a4-6477d8dcaf9b,lashing.miami,available,24.98,30.98,medium,low,7,namecheap,,,22/08/2026 20:10
 023af260-7ede-4eba-a991-865cd2e2b047,disarmer.miami,available,23.49,23.49,medium,low,8,namesilo,,,04/09/2026 22:39
@@ -62,6 +63,7 @@ aa300684-fd38-4008-becb-5f0b0f53b43f,automatism.miami,available,24.98,30.98,medi
 d82fc018-21f8-499f-97f1-785862068757,contrasting.miami,available,23.49,23.49,high,low,11,namesilo,,,
 67a8955b-0dcb-4ec2-a8da-52e5141a2cc4,reasonably.miami,available,23.49,23.49,medium,low,10,namesilo,,,25/09/2026 11:58
 bccd496d-4485-468e-ac1c-9c02628f5a95,stygian.miami,available,23.49,23.49,medium,low,7,namesilo,,,
+58951f00-1b58-4624-b7f7-e82078658480,collapse.miami,available,19.05,19.05,high,low,8,porkbun,,,27/09/2026 12:20
 148d0a16-6fdb-4ab6-a59d-0703c69962e0,separated.miami,available,23.49,23.49,medium,low,9,namesilo,,,19/09/2026 04:08
 a7d27679-bd46-4c79-a0c0-8d4d747bc502,mutually.miami,available,23.49,23.49,medium,low,8,namesilo,,,15/09/2026 15:56
 1dfe281d-06c6-41c6-8a28-d2ede49b2f8e,penal.miami,available,23.49,23.49,medium,low,5,namesilo,,,08/09/2026 13:51
@@ -190,7 +192,7 @@ bb816923-2261-461c-9302-c22cc44e7b6a,acquired.miami,premium,47.2,21.24,high,low,
 e837bf11-de3e-4df7-bad9-4bfd841c101d,embodied.miami,available,23.49,23.49,high,low,8,namesilo,,,16/08/2026 09:35
 4dbd6cf7-207b-41a2-b921-2ed73dbf1fb4,backstay.miami,available,24.98,30.98,medium,low,8,namecheap,,,21/09/2026 16:03
 71d8fc4f-f578-4b14-9c71-ac7031497825,attended.miami,available,23.49,23.49,high,low,8,namesilo,,,22/09/2026 11:17
-57ffa54e-76a0-4a77-a09e-6cf40fdd5192,wired.miami,available,23.49,23.49,high,low,5,namesilo,,,
+57ffa54e-76a0-4a77-a09e-6cf40fdd5192,wired.miami,available,23.49,23.49,high,low,5,namesilo,,,27/09/2026 08:11
 f6dbd6e7-6bfd-48a6-b2c2-08cc7c1b20ff,goosefish.miami,available,23.49,23.49,medium,low,9,namesilo,,,18/09/2026 11:40
 7f7ebdf3-4191-4310-bcf9-3c32eed6da43,infallible.miami,available,23.49,23.49,high,low,10,namesilo,,,22/08/2026 04:05
 20e8ec83-ea62-4000-b861-ddf146873ccb,upcountry.miami,available,23.49,23.49,medium,low,9,namesilo,,,24/08/2026 22:37
@@ -214,6 +216,7 @@ d4bda299-5712-4bb0-95ed-f076e3bf5242,les.miami,premium,47.2,21.24,high,low,3,nam
 99a51c8b-15ec-4411-a2e3-6438ceb9b8e2,giza.miami,available,23.49,23.49,high,low,4,namesilo,,,
 d46ea05c-edcd-4933-a2fe-aaff34f7e09f,meddling.miami,available,23.49,23.49,medium,low,8,namesilo,,,11/08/2026 11:24
 8c27505b-c0f8-461b-864d-1d5daa581b0c,ahmed.miami,premium,52,23.4,high,low,5,namecheap,,,25/09/2026 14:32
+4da11d02-70f1-40b9-9cd9-e7ac496895dd,soto.miami,premium,96,21.24,high,low,4,namesilo,,,27/09/2026 07:28
 4079436f-40f8-4a26-8f36-b0dffc171ddc,rodin.miami,available,23.49,23.49,high,low,5,namesilo,,,21/09/2026 03:57
 1a89190e-f6a2-4c41-849f-9ef3da66f4f3,placeable.miami,available,24.98,30.98,high,medium,9,namecheap,,,08/09/2026 20:14
 c8e0446d-896b-45fd-923b-dda592407904,uniting.miami,available,30.99,30.99,high,low,7,name.com,,,18/09/2026 15:39
@@ -226,6 +229,7 @@ cd0959d8-bd34-4520-91f5-a4760b344454,binomial.miami,available,24.98,30.98,high,l
 351cb226-ca0f-4c30-895b-dedb954a3234,tracy.miami,premium,47.2,21.24,high,low,5,namesilo,,,
 12921764-1358-430e-b708-4447af07f654,theban.miami,available,23.49,23.49,high,low,6,namesilo,,,11/09/2026 12:35
 aaf72ec4-9ca1-439e-a435-8b779106a21c,auricula.miami,available,23.49,23.49,medium,low,8,namesilo,,,21/09/2026 04:20
+d00aa170-24af-409e-b338-bb420c41e19b,claremont.miami,available,24.98,30.98,high,low,9,namecheap,,,27/09/2026 08:22
 7e0068f4-406d-4a9e-8e97-d4124885fb0d,effective.miami,available,23.49,23.49,high,low,9,namesilo,,,24/09/2026 13:31
 218c3f03-7dbb-46e3-838d-eb6062ed6434,upbeat.miami,premium,47.2,21.24,high,low,6,namesilo,,,04/09/2026 01:23
 7ffa2563-f49c-4bd8-a7a2-5209297401f4,suppressed.miami,available,23.49,23.49,high,medium,10,namesilo,,,10/09/2026 12:14
@@ -268,11 +272,13 @@ c32a32d5-0567-46ad-9609-420e931d1935,retained.miami,available,30.98,,high,low,8,
 b06b6de6-d2be-42c1-abda-9d5c712d0ed3,lcd.miami,premium,47.2,21.24,high,low,3,namesilo,,,
 a9d60c7d-9508-45a4-ada8-aa17dd26feb0,session.miami,available,23.49,23.49,high,low,7,namesilo,,,
 615f23f5-182e-462a-9dc1-65eac701e4e1,wares.miami,available,23.49,23.49,medium,low,5,namesilo,,,23/09/2026 02:54
+53620279-24ac-459b-b031-f2a5f3972621,melanie.miami,premium,47.2,21.24,medium,low,7,namesilo,,,27/09/2026 07:18
 2cdf82ea-771c-46a5-9be8-0301d8143d9e,blamed.miami,available,23.49,23.49,medium,low,6,namesilo,,,10/08/2026 12:39
 fc2bab3b-6732-4179-952d-2a2eeb7ab0b1,bahraini.miami,available,23.49,23.49,high,low,8,namesilo,,,08/08/2026 08:36
 6c019a95-2559-423f-a1fe-f80adbc79d85,exciting.miami,available,24.98,30.98,high,low,8,namecheap,,,24/09/2026 15:57
 0f1dee9e-5ea7-47ff-b0d8-e2e6a8656156,miniscule.miami,available,23.49,23.49,medium,low,9,namesilo,,,24/08/2026 23:55
 54ae4017-cdea-4333-a8d3-89325c3c8495,courses.miami,premium,96,21.24,high,low,7,namesilo,,,
+63fb213f-2069-44b7-858d-821c95665927,rutland.miami,available,24.98,30.98,high,low,7,namecheap,,,27/09/2026 05:16
 69ff2503-37d6-4fd4-b2e5-95d8ce97339b,donee.miami,available,23.49,23.49,medium,low,5,namesilo,,,09/08/2026 14:26
 c0f67f3f-4f67-402e-a21e-3bdb8295ad8b,papillary.miami,available,23.49,23.49,medium,low,9,namesilo,,,05/09/2026 01:21
 26cff9e0-2b35-4059-992b-96cf426264de,gate.miami,premium,100,,high,low,4,name.com,,,
@@ -307,6 +313,7 @@ d9ae2623-4036-47db-8dca-22d089974901,putnam.miami,available,23.49,23.49,medium,l
 fb967095-3aa7-4fe7-a2b6-0bed8617d585,canary.miami,available,23.49,23.49,high,low,6,namesilo,,,11/08/2026 16:10
 ad6222c4-b4e0-4ee6-a45f-9e0d9cc4a3bc,quintuple.miami,available,23.49,23.49,medium,low,9,namesilo,,,18/08/2026 05:54
 dc7d5346-c52e-4713-91bf-f3d094ef5d34,caliber.miami,available,24.98,30.98,high,low,7,namecheap,,,24/09/2026 11:44
+b2d0b817-d455-40da-9e26-ad472ffea24f,misery.miami,available,23.49,23.49,medium,low,6,namesilo,,,27/09/2026 04:46
 4a9806c8-b8e6-4299-946d-f361e74fd216,structurally.miami,available,24.98,30.98,medium,low,12,namecheap,,,17/09/2026 20:10
 c3fe067b-d8f2-49a1-a497-a2f6272db981,biennial.miami,available,24.98,30.98,high,low,8,namecheap,,,09/08/2026 19:52
 5a8afb8d-a2a4-40d0-81a4-fdbe2fb9daa1,being.miami,premium,96,21.24,high,low,5,namesilo,,,23/09/2026 04:18
@@ -317,12 +324,14 @@ fb5fb601-15e7-4a68-b490-d04485d371e0,helmet.miami,available,24.98,30.98,high,low
 0ed2c215-3db0-4d10-83e9-6f733c97ff46,relative.miami,available,24.98,30.98,high,low,8,namecheap,,,12/08/2026 21:33
 3f64d321-a79b-4f0c-987d-e63e4284a2de,travelled.miami,available,23.49,23.49,high,low,9,namesilo,,,
 f8f6b9d8-d3a2-4dc6-a161-dd6eca9b8910,unreliable.miami,available,24.98,30.98,medium,low,10,namecheap,,,11/09/2026 19:06
+d4d41433-1f7e-4195-99a8-54740e0f19cd,hannibal.miami,available,23.49,23.49,high,low,8,namesilo,,,27/09/2026 04:24
 006803b9-afe9-49e1-836e-c173af8a7fec,chelonian.miami,available,23.49,23.49,low,low,9,namesilo,,,12/08/2026 04:08
-6828dbc0-a1b9-45e8-8345-c462485e69cd,recorded.miami,available,23.49,23.49,high,low,8,namesilo,,,
+6828dbc0-a1b9-45e8-8345-c462485e69cd,recorded.miami,available,23.49,23.49,high,low,8,namesilo,,,27/09/2026 10:58
 4101462e-ad97-4191-ab5b-3f1e7cab6749,agra.miami,available,24.98,30.98,high,low,4,namecheap,,,17/09/2026 19:09
 ec58ba53-42e6-4367-a9dc-c8d1ff3daf29,elemental.miami,available,23.49,23.49,high,low,9,namesilo,,,16/08/2026 03:29
 83c1dd3a-8287-43ad-a78f-14bbf020a770,resident.miami,available,24.98,30.98,high,low,8,namecheap,,,03/09/2026 19:51
 b0051683-88f2-44c6-917f-6d8239b3730d,flew.miami,premium,47.2,21.24,high,low,4,namesilo,,,
+e8709b27-d2d7-445b-acbf-0a2a3cdb4f6b,pockets.miami,available,23.49,23.49,medium,low,7,namesilo,,,27/09/2026 02:53
 f57bcd3f-cf05-4b09-90ab-9d36e12b2061,literature.miami,available,23.49,23.49,high,low,10,namesilo,,,24/08/2026 02:03
 b1b1c671-daf0-4b0a-bf7a-92a0c40ed777,ruinous.miami,available,23.49,23.49,medium,low,7,namesilo,,,10/08/2026 13:28
 efdcd2f2-cb90-4a6e-96ca-521324d85750,sneezing.miami,available,23.49,23.49,medium,low,8,namesilo,,,
@@ -362,7 +371,7 @@ d0122a4d-9a08-46a4-9676-e5b2e8e60bd2,pitiless.miami,available,24.98,30.98,high,m
 b37977ae-43ad-4c17-9042-2cca0d20800b,albinism.miami,available,23.49,23.49,medium,low,8,namesilo,,,18/09/2026 02:54
 6033545f-ec6d-4293-b676-1bde263f8a07,gran.miami,premium,50,,high,low,4,name.com,,,
 35f028d8-52a3-47b9-bcf4-ccdb853e6f54,unsolved.miami,available,24.98,30.98,medium,low,8,namecheap,,,12/09/2026 18:23
-3218c7ec-4e8b-4df7-b864-2c6d21d1f9e3,period.miami,available,23.49,23.49,high,low,6,namesilo,,,
+3218c7ec-4e8b-4df7-b864-2c6d21d1f9e3,period.miami,available,23.49,23.49,high,low,6,namesilo,,,27/09/2026 06:37
 de7d2801-7016-4f95-9e97-0c51b8b89258,divorced.miami,premium,242,21.24,medium,low,8,namesilo,,,14/08/2026 14:01
 472afe6d-8c9c-48c6-b0b6-912b8d44e317,coolness.miami,available,24.98,30.98,high,low,8,namecheap,,,24/09/2026 14:38
 fa45a1d1-5dd0-41d1-960f-e71f0ba03efc,marly.miami,available,23.49,23.49,medium,low,5,namesilo,,,24/08/2026 16:08
@@ -507,6 +516,7 @@ e898629a-6507-4a55-bfe8-b390ecab309b,antiserum.miami,available,23.49,23.49,mediu
 21219d68-a92f-4bee-bcd1-8a62ab8c7611,conceited.miami,available,24.98,30.98,medium,low,9,namecheap,,,12/08/2026 19:54
 6937ef99-89ec-469a-8f2a-c44a12708869,terrorism.miami,available,23.49,23.49,medium,low,9,namesilo,,,17/09/2026 04:10
 96e24394-b849-4b11-b211-d3b9c6eb786d,vocalists.miami,available,23.49,23.49,medium,low,9,namesilo,,,19/09/2026 21:58
+5d55e07f-57f6-4aaa-8588-9eb5abbc35aa,prosecutor.miami,available,24.98,30.98,high,low,10,namecheap,,,27/09/2026 05:05
 bfce24dd-f0ab-4782-b5f3-4677764cac13,convinced.miami,available,23.49,23.49,high,low,9,namesilo,,,
 81c04b76-e5c0-486d-ae4b-e796cc5f0c78,antitumor.miami,available,23.49,23.49,high,low,9,namesilo,,,22/09/2026 06:40
 25ce4e26-9621-4503-987e-fa4f5fa9f83c,insinuate.miami,available,23.49,23.49,high,low,9,namesilo,,,22/08/2026 08:35
@@ -544,6 +554,7 @@ babd126e-57e6-421f-a5f1-80cc6c2239c5,bakelite.miami,available,24.98,30.98,high,l
 800495a7-00df-48da-94f1-55786fd23d5d,dose.miami,premium,47.2,21.24,high,low,4,namesilo,,,
 68a73f68-d20f-4ba8-842e-156692cae393,taurine.miami,available,23.49,23.49,medium,low,7,namesilo,,,11/09/2026 09:15
 b1ba8b3d-4de5-4cfa-b017-f48abbf6de98,tales.miami,available,24.98,30.98,high,low,5,namecheap,,,18/09/2026 16:46
+9e1f1247-4fdd-4617-9a3c-31b3029da530,vince.miami,premium,47.2,21.24,high,low,5,namesilo,,,27/09/2026 07:24
 c53d18ed-3266-4dc6-b198-acd4cb4fad0e,tolerant.miami,available,24.98,30.98,high,low,8,namecheap,,,22/08/2026 19:55
 23e087d5-bded-4e1a-9a38-0b73a09d1d9c,drew.miami,premium,47.2,21.24,high,low,4,namesilo,,,25/09/2026 00:05
 14d93c23-f668-4a94-9f29-efb140d53265,sit.miami,premium,96,21.24,high,low,3,namesilo,,,
@@ -593,7 +604,7 @@ b649fe85-83f2-457b-a217-fd6b80eb9960,ing.miami,premium,47.2,21.24,high,low,3,nam
 b23fec85-9ed1-4eb9-af84-12a1c96f67c0,haply.miami,available,23.49,23.49,medium,low,5,namesilo,,,14/09/2026 04:36
 307d544f-1e2e-4ed5-bc3b-f23712d2614a,plans.miami,available,23.49,23.49,high,low,5,namesilo,,,
 714716e4-5b3e-4eea-92d5-b9c2acbfa709,color.miami,premium,96,21.24,high,low,5,namesilo,,,23/09/2026 15:05
-84018427-6696-4282-8569-8b7752a7c22e,machines.miami,premium,47.2,21.24,high,low,8,namesilo,,,24/09/2026 13:52
+84018427-6696-4282-8569-8b7752a7c22e,machines.miami,premium,47.2,21.24,medium,low,8,namesilo,,,27/09/2026 02:01
 4a2f6e7d-2d77-44be-8460-27055cb10ead,downstream.miami,available,24.98,30.98,high,low,10,namecheap,,,14/08/2026 17:59
 e32c8714-6c89-48a4-b089-066ef0cff6bb,dalliance.miami,available,23.49,23.49,medium,low,9,namesilo,,,11/09/2026 19:38
 0c49ad87-2d46-41cb-9985-0003e4fc5219,clathrate.miami,available,23.49,23.49,medium,low,9,namesilo,,,11/08/2026 16:23
@@ -737,7 +748,7 @@ d757d5ff-bb9c-4d40-83de-f7aeb7046f6c,currently.miami,available,30.98,,high,low,9
 1dc22140-402f-48f7-9eb1-c869cc0de80a,continuously.miami,available,23.49,23.49,medium,low,12,namesilo,,,
 b72b0594-9086-4092-9432-295fb6b2cbc7,foretoken.miami,available,23.49,23.49,medium,low,9,namesilo,,,21/09/2026 03:42
 348b3699-b405-474a-bd4e-16b1072dc997,objection.miami,available,24.98,30.98,high,low,9,namecheap,,,25/09/2026 22:40
-cd73026d-b149-4240-8ae6-30787726194c,tap.miami,premium,96,21.24,high,medium,3,namesilo,,,
+cd73026d-b149-4240-8ae6-30787726194c,tap.miami,premium,96,21.24,high,medium,3,namesilo,,,27/09/2026 03:03
 32180c3d-3a74-4387-a6cd-4ca7ed04af9e,extensible.miami,available,24.98,30.98,medium,low,10,namecheap,,,17/08/2026 19:03
 3a78103c-2be1-473a-a4ba-61013cb9449f,favorable.miami,premium,47.2,21.24,high,low,9,namesilo,,,24/09/2026 17:21
 a0c7d234-aff4-4848-bd63-bc42fcb020f7,asparagus.miami,available,23.49,23.49,high,low,9,namesilo,,,20/09/2026 14:40
@@ -754,6 +765,7 @@ a6f0bd14-b635-4380-8f11-16d93be77ff9,bryan.miami,premium,50,,high,low,5,name.com
 1a798542-7db3-4ee7-b73f-ba5001e87cf4,sevener.miami,available,23.49,23.49,medium,low,7,namesilo,,,
 a686cad6-cd84-43d9-bd9b-d09d948f036d,willingly.miami,available,23.49,23.49,high,low,9,namesilo,,,16/09/2026 11:08
 808fb6b8-c03e-4c07-bebf-7430a8595d82,philia.miami,available,23.49,23.49,high,low,6,namesilo,,,17/09/2026 14:21
+f0e79273-42d5-4cca-af72-adf5bb1d733e,gainesville.miami,available,23.49,23.49,high,low,11,namesilo,,,27/09/2026 07:47
 5b25e109-8e49-4464-b4f7-ca16eb48c21e,lock.miami,premium,96,21.24,high,low,4,namesilo,,,
 3948d984-cab0-48d1-b2df-ea327c1a52d8,polychrome.miami,available,23.49,23.49,high,low,10,namesilo,,,08/09/2026 23:11
 31478f1c-bb3d-4734-ad66-355e05428c37,cauterize.miami,available,23.49,23.49,medium,low,9,namesilo,,,11/08/2026 14:34
@@ -800,6 +812,7 @@ ee3761fe-42de-4135-a97b-021b3ecdd617,reverse.miami,available,23.49,23.49,high,lo
 0dfbaa98-2637-48bc-9f1a-fa7cf9ab0d0a,alarmism.miami,available,23.49,23.49,medium,low,8,namesilo,,,18/09/2026 01:58
 02ea3988-8441-472d-8454-ce5676e74717,depend.miami,premium,47.2,21.24,high,low,6,namesilo,,,
 bfa276a7-6211-44ad-b436-be00f23f6977,holotype.miami,available,30.99,30.99,high,low,8,name.com,,,25/09/2026 23:08
+ec39f035-2ac0-43fe-bcf4-3c9688682c25,rumors.miami,available,23.49,23.49,medium,low,6,namesilo,,,27/09/2026 09:37
 6cc38900-1427-4e12-946b-f837a479702e,ardent.miami,available,23.49,23.49,high,low,6,namesilo,,,06/08/2026 16:11
 402e3caf-e7dc-4185-b840-c7e04bd6a589,puckish.miami,available,23.49,23.49,medium,low,7,namesilo,,,21/08/2026 22:29
 954285f5-01d3-4fe7-84c0-50460af0d5a5,cruz.miami,premium,104,23.4,high,low,4,namecheap,,,25/09/2026 11:52
@@ -811,6 +824,7 @@ a5b899b9-5a89-4059-a4fe-273c18539401,tributary.miami,available,24.98,30.98,high,
 7470bcad-9896-4db9-88f9-7da5916fab50,charitable.miami,available,23.49,23.49,high,low,10,namesilo,,,12/08/2026 02:34
 8dea1bd6-04b2-4bfa-9987-cdef789155d7,plaques.miami,available,23.49,23.49,low,low,7,namesilo,,,20/09/2026 08:19
 528e9f7a-fcde-487f-a3b9-4b4366079fb7,senile.miami,available,23.49,23.49,medium,low,6,namesilo,,,14/08/2026 14:36
+28e257be-5d49-4abd-8b81-bf05c100be9c,harlan.miami,premium,52,23.4,high,low,6,namecheap,,,27/09/2026 08:13
 03a70cca-66ec-42ef-bce9-dabed47d3adb,plumb.miami,available,23.49,23.49,high,low,5,namesilo,,,12/08/2026 10:05
 daf913dc-d60d-4327-9cc0-f826374dde73,shelflike.miami,available,23.49,23.49,high,medium,9,namesilo,,,10/09/2026 06:22
 ed6bdc58-ae9b-43e1-841f-d05e75cb2a50,recklessly.miami,available,23.49,23.49,medium,low,10,namesilo,,,15/09/2026 22:49
@@ -837,7 +851,7 @@ be9a9f3d-aecc-458c-a624-22023644e452,grabby.miami,available,23.49,23.49,medium,l
 e88c43b2-3841-455a-a090-3ffc8dd1b00a,royalties.miami,available,23.49,23.49,medium,low,9,namesilo,,,18/09/2026 03:27
 1fad75c5-11df-430a-9969-de80ba133f53,bluetooth.miami,available,30.98,,high,low,9,namecheap,,,
 f5e26ec5-3b8a-4857-be41-1d90344aff72,baykal.miami,available,24.98,30.98,high,low,6,namecheap,,,21/09/2026 18:56
-6daa8019-d811-47a7-b129-0f2cf7f45549,passionate.miami,available,23.49,23.49,high,low,10,namesilo,,,
+6daa8019-d811-47a7-b129-0f2cf7f45549,passionate.miami,available,24.98,30.98,high,low,10,namecheap,,,27/09/2026 02:53
 e84179b2-bdc5-4faf-b35a-374e58fad80c,dustbin.miami,available,23.49,23.49,high,low,7,namesilo,,,20/09/2026 13:42
 bf106ce1-52fe-4b66-8601-07c8b5de3571,edged.miami,available,30.99,30.99,high,low,5,name.com,,,13/08/2026 13:14
 31e17b2c-77cd-4f0e-b2c8-f1de5f065637,nonaligned.miami,available,23.49,23.49,medium,low,10,namesilo,,,03/09/2026 18:44
@@ -901,6 +915,7 @@ f660fccb-c437-4164-bee2-3c5d327445b5,frigid.miami,available,23.49,23.49,medium,l
 7a008abd-75a9-41ea-931a-3a77995f4b93,secretly.miami,available,23.49,23.49,medium,low,8,namesilo,,,15/09/2026 06:37
 3e22861b-0259-459c-9db3-bd5f786dcd7b,quatern.miami,available,23.49,23.49,medium,low,7,namesilo,,,
 83c0008a-8709-459f-be68-e0202d314675,drawing.miami,premium,52,19.5,high,low,7,namecheap,,,
+0eb3aa90-1096-46ef-bb18-cfc00359d1d8,grades.miami,premium,41.6,18.83,high,low,6,spaceship,,,27/09/2026 11:23
 8b5c0e4a-e884-4177-a5f4-e4031ed5cb74,sopranino.miami,available,23.49,23.49,medium,low,9,namesilo,,,10/09/2026 14:22
 8571c2f4-d442-485b-82ad-5d5341a24d90,vented.miami,available,23.49,23.49,medium,low,6,namesilo,,,13/09/2026 02:12
 e5056bc9-3120-44c3-94f6-9910b6c1058d,gilding.miami,available,23.49,23.49,high,low,7,namesilo,,,18/08/2026 23:37
@@ -938,6 +953,7 @@ f0f76378-c446-47d6-af06-1763239ca5e4,mockingly.miami,available,23.49,23.49,mediu
 cacca0b3-6340-4da3-9b1c-70fda54fd350,farrell.miami,premium,47.2,21.24,medium,low,7,namesilo,,,25/09/2026 05:20
 c3490586-b66f-4b90-b27b-0b622d2e1efd,accidental.miami,available,23.49,23.49,high,low,10,namesilo,,,
 ff543b36-6a90-4272-a581-9e988c52d512,eligible.miami,available,23.49,23.49,high,low,8,namesilo,,,16/08/2026 04:35
+67cfde00-8ca7-4a90-ba98-c70c7363703a,regarding.miami,available,23.49,23.49,high,low,9,namesilo,,,27/09/2026 06:20
 245393a1-6ae7-457f-bf0d-866943fd45d3,obtain.miami,premium,47.2,21.24,high,low,6,namesilo,,,
 10469a9c-723b-4575-a425-f9eb257429da,algorithm.miami,available,23.49,23.49,high,low,9,namesilo,,,18/09/2026 07:16
 8f630aa2-3e08-49bf-9871-d36e722996be,balsam.miami,available,23.49,23.49,high,low,6,namesilo,,,22/09/2026 00:04
@@ -961,11 +977,12 @@ b763dd98-8beb-40ab-8e88-6dbf6dcdd7a4,oslo.miami,available,23.49,23.49,high,low,4
 504368c2-f35a-437c-a708-7a7b3c5f26bb,stitches.miami,available,23.49,23.49,medium,low,8,namesilo,,,
 b2a77062-43d0-45d7-b54f-c4b44771f9d6,subscribe.miami,available,23.49,23.49,high,low,9,namesilo,,,
 4b0406cb-1b72-4a06-9aab-909cdb0a3580,likeable.miami,available,23.49,23.49,high,low,8,namesilo,,,23/08/2026 06:11
+52ed6b12-05aa-4892-8709-0afc72fd1814,sonora.miami,available,24.98,30.98,high,low,6,namecheap,,,27/09/2026 04:12
 9abb2695-04f5-474f-ac13-eb44ee4ebced,seeger.miami,available,23.49,23.49,high,low,6,namesilo,,,18/09/2026 01:49
 1be1f1f2-efd5-4612-a762-8c6f211d5970,raunchy.miami,available,23.49,23.49,medium,low,7,namesilo,,,09/08/2026 09:41
 9b1e8eb6-be63-4eab-8771-12db35e56f5e,knowingly.miami,available,23.49,23.49,high,low,9,namesilo,,,15/09/2026 10:35
 365e16be-e900-424e-acf3-024c3bcb7b43,virginia.miami,premium,47.2,21.24,high,low,8,namesilo,,,25/09/2026 09:38
-777f1826-7962-4e77-88ad-a2b0ddd1f275,piano.miami,premium,96,21.24,high,low,5,namesilo,,,
+777f1826-7962-4e77-88ad-a2b0ddd1f275,piano.miami,premium,96,21.24,high,low,5,namesilo,,,27/09/2026 03:41
 49c3ea8c-3a92-4981-8ea2-5b085508a606,bent.miami,premium,47.2,21.24,medium,low,4,namesilo,,,09/08/2026 14:16
 3c2ff0a8-0475-401d-ab7d-d615607af1ec,bonkers.miami,available,23.49,23.49,medium,low,7,namesilo,,,06/08/2026 20:40
 f8eb9d63-9d42-412a-9dce-329a5fc2ae1f,dalmatian.miami,available,30.99,30.99,high,low,9,name.com,,,13/08/2026 16:00
@@ -977,25 +994,8 @@ d29b8b2f-b0f2-42cf-ad39-47083336f348,benthal.miami,available,23.49,23.49,medium,
 02c4b59e-f4be-4171-a3b7-8fa2fdc1c38f,languages.miami,available,23.49,23.49,medium,low,9,namesilo,,,
 401b5e3c-557c-41fe-83a0-a4cf38247326,wildcat.miami,available,23.49,23.49,high,low,7,namesilo,,,11/08/2026 07:09
 ce917c36-65d5-43a7-a2b8-3d369a206806,norton.miami,premium,47.2,21.24,high,high,6,namesilo,,,25/09/2026 12:24
-48e0683b-8fcb-4d85-a54c-3a6405bf5189,profitable.miami,available,23.49,23.49,high,low,10,namesilo,,,
+48e0683b-8fcb-4d85-a54c-3a6405bf5189,profitable.miami,available,23.49,23.49,high,low,10,namesilo,,,27/09/2026 07:05
 70326e9b-4177-41c9-a047-048c93a94742,mildness.miami,available,23.49,23.49,high,low,8,namesilo,,,24/09/2026 15:30
 9b5f8b67-fdce-4fa0-beff-cd5f9dd3e510,apparatus.miami,available,24.98,30.98,high,low,9,namecheap,,,19/09/2026 19:49
 f41fa867-cc27-49c9-a3f1-869a1fe3b102,leger.miami,available,24.98,30.98,high,low,5,namecheap,,,16/09/2026 23:07
 0d8dca7a-2277-4bbb-9b02-ba5a8e642483,deplorable.miami,available,24.98,30.98,medium,low,10,namecheap,,,12/08/2026 20:22
-14f0105f-1bcb-42ba-8018-6554597d8fd7,mural.miami,available,23.49,23.49,high,low,5,namesilo,,,03/09/2026 11:00
-042bbbb1-fb87-4823-af6a-0178c00f9b81,usc.miami,premium,47.2,21.24,high,low,3,namesilo,,,25/09/2026 14:13
-4028b9b0-8ce3-41b2-8804-b42f39a7b203,weber.miami,premium,5520,21.24,high,low,5,namesilo,,,22/09/2026 07:12
-21848769-f184-4da4-9381-cd958b3edd60,aggravated.miami,available,23.49,23.49,high,low,10,namesilo,,,
-e2de879e-1016-4a6c-94d5-492e4ebb2820,assertion.miami,available,23.49,23.49,high,low,9,namesilo,,,20/09/2026 16:14
-78c86ced-804b-435d-87df-92b4a7453165,donkey.miami,premium,47.2,21.24,high,low,6,namesilo,,,
-1820d06a-d0a0-4667-8efe-913ca568eadb,loaded.miami,premium,96,21.24,high,low,6,namesilo,,,
-5299a016-b773-40b5-9598-6534aff2a470,toothed.miami,available,23.49,23.49,medium,low,7,namesilo,,,17/08/2026 12:41
-1ea15ed1-f78d-4551-8280-1ad9a5c8ecf0,mild.miami,premium,52,23.4,high,low,4,namecheap,,,25/09/2026 18:55
-5272f000-b818-4273-a1db-f608bd774e9c,cloudburst.miami,available,23.49,23.49,high,low,10,namesilo,,,24/09/2026 16:03
-589e2b82-06d5-4cbe-b75d-a45f2cb198f3,amoy.miami,available,23.49,23.49,high,low,4,namesilo,,,18/09/2026 23:05
-4b213a43-793d-4736-819e-152c455e78d1,ser.miami,premium,50,,high,low,3,name.com,,,
-4515d9c1-3f63-4e23-9ac5-ef38c6eedce9,racial.miami,available,23.49,23.49,high,low,6,namesilo,,,09/09/2026 09:19
-fcdddf46-0903-4a6e-a485-e5e68ce748e0,balder.miami,available,24.98,30.98,medium,low,6,namecheap,,,21/09/2026 21:33
-e25a85d5-1d84-45a6-9126-ec53d57e3211,arccos.miami,available,23.49,23.49,medium,low,6,namesilo,,,20/09/2026 01:15
-3a078efb-095e-4250-a07d-a5394ab433b5,semitic.miami,available,23.49,23.49,medium,low,7,namesilo,,,10/09/2026 03:32
-ee3bf831-f08e-4047-a4a3-bbfe449937ba,assigned.miami,available,23.49,23.49,medium,low,8,namesilo,,,07/08/2026 06:35
